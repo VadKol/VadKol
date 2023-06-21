@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there! Ma name is Vadym and I'm Fullstack Developer 👋
 
 ## 🌐 Contact me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vadym-kolomiiets-ua/) 
