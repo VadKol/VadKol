@@ -1,9 +1,5 @@
 # 👋 Hi, I'm Vadym — Fullstack Developer
 
-![GitHub followers](https://img.shields.io/github/followers/vadymkol?style=social)
-![GitHub stars](https://img.shields.io/github/stars/vadymkol?style=social)
-![GitHub repo size](https://img.shields.io/github/repo-size/vadymkol/portfolio)
-
 ---
 
 ## 🌐 Connect with me
@@ -49,14 +45,6 @@
 I'm passionate about building **clean, scalable, and performant web applications**. I love working with **React + TypeScript** on the frontend and **Node.js + databases** on the backend.  
 
 I also enjoy contributing to open-source projects and learning new web technologies.  
-
----
-
-## 📂 Projects
-
-- [**Portfolio Website**](https://portfolio-tawny-two-74.vercel.app) — Modern responsive portfolio built with React, Vite, and Tailwind.  
-- [**Chat App**](#) — Real-time chat using Socket.io, Node.js, and MongoDB.  
-- [**E-commerce API**](#) — Backend API with Express, PostgreSQL, and Prisma.
 
 ---
 
