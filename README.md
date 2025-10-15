@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Vadym — Fullstack Developer
+![Coding GIF](https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif)
 
 ---
 
