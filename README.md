@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Vadym — Fullstack Developer
-<img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="300"/>
+<img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="200"/>
 
 ---
 
